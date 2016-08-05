@@ -1,0 +1,32 @@
+_repo: Personal-Memoirs-of-P.-H.-Sheridan-Volume-II.-Part-5_5858
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sheridan, Philip Henry
+    alias: Sheridan, P. H. (Philip Henry)
+    birthdate: 1831
+    deathdate: 1888
+    gutenberg_agent_id: '988'
+    url: http://www.gutenberg.org/2009/agents/988
+    wikipedia: http://en.wikipedia.org/wiki/Philip_Sheridan
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5858'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Generals -- United States -- Biography'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcsh 'United States. Army -- Biography'
+- !lcsh 'Sheridan, Philip Henry, 1831-1888'
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Campaigns'
+- !lcsh 'Indians of North America -- Wars -- 1866-1895'
+- GITenberg
+title: Personal Memoirs of P. H. Sheridan, Volume II., Part 5
+url: http://www.gutenberg.org/ebooks/5858
